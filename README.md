@@ -21,18 +21,28 @@ This approach ensures recommendations are based on movie content, not user histo
 
 
 Movie_Recommentation_System/
+
 │
+
 ├── app.py
+
 │
 ├── src/
+
 │   ├── data_loader.py        # Data loading utilities
+
 │   ├── recommender.py        # Similarity matrix & recommendation logic
+
 │   ├── ui_components.py      # Streamlit UI components
+
 │
 ├── data/
+
 │   └── movies_with_posters.csv
+
 │
 ├── requirements.txt
+
 └── README.md
 
 
