@@ -46,6 +46,17 @@ Movie_Recommentation_System/
 
 └── README.md
 
+ Tech Stack
+
+Python 3.9+
+
+Pandas – Data manipulation
+
+Scikit-learn – Feature extraction & similarity computation
+
+Streamlit – Interactive web application
+
+NumPy – Numerical operations
 
 git clone https://github.com/Swaraj0003/Movie-Recommendation-System.git
 
