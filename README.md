@@ -1,5 +1,6 @@
 Movie Recommendation System
 
+
 A modular, content-based Movie Recommendation System built using Python, Machine Learning, and Streamlit.
 The application recommends movies similar to a user-selected title based on textual features such as genres and plot descriptions, and presents results through an interactive web interface.
 
@@ -47,11 +48,17 @@ Movie_Recommentation_System/
 
 
 git clone https://github.com/Swaraj0003/Movie-Recommendation-System.git
+
+
 cd Movie-Recommendation-System
 
 
+
 python -m venv venv
+
+
 source venv/bin/activate
+
 
 pip install -r requirements.txt
 
