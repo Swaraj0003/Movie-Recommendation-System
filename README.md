@@ -1,10 +1,10 @@
-##Movie Recommendation System
+## Movie Recommendation System
 
 
 A modular, content-based Movie Recommendation System built using Python, Machine Learning, and Streamlit.
 The application recommends movies similar to a user-selected title based on textual features such as genres and plot descriptions, and presents results through an interactive web interface.
 
-#The system uses a Content-Based Filtering technique:
+# The system uses a Content-Based Filtering technique:
 
 Text Feature Engineering
 
@@ -14,7 +14,7 @@ Similarity Computation
 
 Cosine similarity is computed to measure closeness between movies
 
-Recommendation Logic
+# Recommendation Logic
 
 Movies with the highest similarity scores are recommended
 
@@ -47,7 +47,7 @@ Movie_Recommentation_System/
 └── README.md
 
 
- #Tech Stack
+ # Tech Stack
 
 Python 3.9+
 
