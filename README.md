@@ -1,10 +1,10 @@
-Movie Recommendation System
+##Movie Recommendation System
 
 
 A modular, content-based Movie Recommendation System built using Python, Machine Learning, and Streamlit.
 The application recommends movies similar to a user-selected title based on textual features such as genres and plot descriptions, and presents results through an interactive web interface.
 
-The system uses a Content-Based Filtering technique:
+#The system uses a Content-Based Filtering technique:
 
 Text Feature Engineering
 
@@ -46,7 +46,8 @@ Movie_Recommentation_System/
 
 └── README.md
 
- Tech Stack
+
+ #Tech Stack
 
 Python 3.9+
 
@@ -57,6 +58,8 @@ Scikit-learn – Feature extraction & similarity computation
 Streamlit – Interactive web application
 
 NumPy – Numerical operations
+
+
 
 git clone https://github.com/Swaraj0003/Movie-Recommendation-System.git
 
