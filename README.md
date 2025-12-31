@@ -1,4 +1,4 @@
-## Movie Recommendation System
+# Movie Recommendation System
 
 
 A modular, content-based Movie Recommendation System built using Python, Machine Learning, and Streamlit.
